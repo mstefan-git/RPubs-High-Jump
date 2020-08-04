@@ -1,2 +1,2 @@
-# RPubs-High-Jump
-Replication files for "High Jump World Records"
+# RPubs: High Jump World Records
+(https://rpubs.com/mstefan-rpubs/jump)
