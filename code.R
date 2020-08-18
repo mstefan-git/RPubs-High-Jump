@@ -1,3 +1,7 @@
+# Replication file for: "High Jump World Records"
+# RPubs-link: https://rpubs.com/mstefan-rpubs/jump
+# (c) Martin Stefan, August 2020
+
 rm(list = ls())
 
 df <- read.csv("data.csv")
